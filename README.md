@@ -20,7 +20,7 @@ My focus is on **data engineering, ETL pipeline development, and analytics syste
 
 ## 🏗️ Featured Project
 
-### Retail Market Intelligence ETL Pipeline
+### Retail Sales Forecasting ETL Pipeline
 End-to-end production-style data engineering system.
 
 - Automated data ingestion from Kaggle API  

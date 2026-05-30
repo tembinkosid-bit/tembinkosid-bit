@@ -30,7 +30,7 @@ End-to-end production-style data engineering system.
 - Data quality reporting with run-level tracking  
 - Full logging and observability layer  
 
-👉 https://github.com/tembinkosid-bit/retail-market-intelligence
+👉 https://github.com/tembinkosid-bit/Retail-Sales-Forecasting)
 
 ---
 
